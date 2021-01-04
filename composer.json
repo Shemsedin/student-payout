@@ -1,0 +1,17 @@
+{
+    "name": "shemsedin/student-payout",
+    "description": "Student payout application.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shemsedin Callaki",
+            "email": "shemsedin.callaki@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "StudentPayout\\": "src/"
+        }
+    }
+}
